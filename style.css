@@ -234,8 +234,8 @@ nav ul li .nav-link {
   background-color: White;
   margin: 6px 0;
 }
-.carousel{
-  z-index: -5 !important;
+.carousel-inner, .carousel-indicators{
+  z-index: -1 !important;
 }
 .nav-wrapper{
   background-color:#0071bb !important;
